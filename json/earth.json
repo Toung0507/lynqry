@@ -1,0 +1,551 @@
+[
+  {
+    "id": 1,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第二季第一期請出門遊戲中，誰被陳星旭公主抱？",
+    "answer": "李乃文",
+    "tags": []
+  },
+  {
+    "id": 2,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "陳星旭和彩虹的合照是誰拍的？",
+    "answer": "王玉雯",
+    "tags": []
+  },
+  {
+    "id": 3,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第一季國內收官城市是？",
+    "answer": "西安",
+    "tags": []
+  },
+  {
+    "id": 4,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第一季海外行程不包含以下哪個城市？",
+    "answer": "倫敦",
+    "tags": []
+  },
+  {
+    "id": 5,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第一站沒去",
+    "answer": "巴黎",
+    "tags": []
+  },
+  {
+    "id": 6,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "出發城市在",
+    "answer": "北京",
+    "tags": []
+  },
+  {
+    "id": 7,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "節目組在哪個國家錄製了主題曲？",
+    "answer": "西班牙",
+    "tags": []
+  },
+  {
+    "id": 8,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "間歇泉噴多少公尺？",
+    "answer": "30米",
+    "tags": []
+  },
+  {
+    "id": 9,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "毛利文化村隨機舞蹈2.0挑戰，龔俊做了什麼動作之後被潑水？",
+    "answer": "掃地",
+    "tags": []
+  },
+  {
+    "id": 10,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第二季地球團為新成員所製定的歡迎儀式叫什麼？",
+    "answer": "一郭端",
+    "tags": []
+  },
+  {
+    "id": 11,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "在毛利文化村的隨機舞蹈挑戰失敗後，地球團會受到什麼懲罰？",
+    "answer": "潑水",
+    "tags": []
+  },
+  {
+    "id": 12,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第一季節目誰提議的洗襪子？",
+    "answer": "李乃文",
+    "tags": []
+  },
+  {
+    "id": 13,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "龔俊在下列哪個場景對孫紅雷說他今天像18歲？",
+    "answer": "孫紅雷穿粉紅色衣服",
+    "tags": []
+  },
+  {
+    "id": 14,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第二季第二期節目中，地球團沒有經歷以下哪種天氣？",
+    "answer": "冰雹",
+    "tags": []
+  },
+  {
+    "id": 15,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第二季第一期請出門遊戲裡，劉宇寧聽到什麼後自己走出了門？",
+    "answer": "劉宇寧最帥",
+    "tags": []
+  },
+  {
+    "id": 16,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "在新西蘭參觀地熱保護區時，地球團討論的「菇」是以下哪一個？",
+    "answer": "茶樹菇",
+    "tags": []
+  },
+  {
+    "id": 17,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "紐西蘭國鳥是什麼？",
+    "answer": "Kiwi（幾維鳥）",
+    "tags": []
+  },
+  {
+    "id": 18,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "你懂我意思遊戲，我瘋狂輸出什麼來增加資訊量？",
+    "answer": "Abcdefg",
+    "tags": []
+  },
+  {
+    "id": 19,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "在叢林無影手遊戲中誰第一時間去偵測了林一的心跳？",
+    "answer": "孫紅雷",
+    "tags": []
+  },
+  {
+    "id": 20,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第一季節目中，地球團在哪個城市參觀了高第系列建築？",
+    "answer": "巴塞隆納",
+    "tags": []
+  },
+  {
+    "id": 21,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "蹦極高度？",
+    "answer": "192米",
+    "tags": []
+  },
+  {
+    "id": 22,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "地球團裡，誰和誰在新西蘭天空塔挑戰了高空速降？",
+    "answer": "龔俊和陳星旭",
+    "tags": []
+  },
+  {
+    "id": 23,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "異食兄弟？",
+    "answer": "陳星旭+林一",
+    "tags": []
+  },
+  {
+    "id": 24,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "龔俊在第二期叢林無影手遊戲中共擔當了幾次無影手？",
+    "answer": "2次",
+    "tags": []
+  },
+  {
+    "id": 25,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "地球團在卡塔尼亞合唱的曲目是？",
+    "answer": "海闊天空",
+    "tags": []
+  },
+  {
+    "id": 26,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第一季地球團在長城合唱的曲目是？",
+    "answer": "我和你",
+    "tags": []
+  },
+  {
+    "id": 27,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第二季第二期的隨機舞蹈挑戰大家的打氣口號是什麼？",
+    "answer": "完了",
+    "tags": []
+  },
+  {
+    "id": 28,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第二季第二期隨機舞蹈2.0挑戰，地球團團挑戰了幾場才獲勝？",
+    "answer": "6次",
+    "tags": []
+  },
+  {
+    "id": 29,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "劉宇寧的舞蹈課教學中，擦完玻璃之後的動作是？",
+    "answer": "轉圈比耶",
+    "tags": []
+  },
+  {
+    "id": 30,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "陳星旭是地球四美裡的？",
+    "answer": "小星星",
+    "tags": []
+  },
+  {
+    "id": 31,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "叢林無影手遊戲中，給出臥底手很涼這個關鍵線索人的是誰？",
+    "answer": "林一",
+    "tags": []
+  },
+  {
+    "id": 32,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "王玉雯在無影手成功出手幾次？",
+    "answer": "23次",
+    "tags": []
+  },
+  {
+    "id": 33,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "王玉雯虎妹稱號是誰賦予的？",
+    "answer": "龔俊",
+    "tags": []
+  },
+  {
+    "id": 34,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "郭京飛說王玉雯像哪兩個角色的合體？",
+    "answer": "孫悟空和哪吒",
+    "tags": []
+  },
+  {
+    "id": 35,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "郭京飛說王玉雯像？",
+    "answer": "狐狸",
+    "tags": []
+  },
+  {
+    "id": 36,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "郭京飛與林一共有幾塊腹肌？",
+    "answer": "8塊",
+    "tags": []
+  },
+  {
+    "id": 37,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "劉宇寧做？",
+    "answer": "羊湯",
+    "tags": []
+  },
+  {
+    "id": 38,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第二季的你懂我遊戲中，龔俊說劉宇寧郭京飛在哪裡做燴面？",
+    "answer": "廁所",
+    "tags": []
+  },
+  {
+    "id": 39,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "地球團一起在冷泉自然保護區做了什麼？",
+    "answer": "抱樹",
+    "tags": []
+  },
+  {
+    "id": 40,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第二季第一期的請出門遊戲中，誰拿到了最後的國王卡？",
+    "answer": "龔俊",
+    "tags": []
+  },
+  {
+    "id": 41,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "下列哪一個是毛利族傳統問候禮儀？",
+    "answer": "碰鼻",
+    "tags": []
+  },
+  {
+    "id": 42,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "林一來《地球超新鮮2》開嗓唱的第一首歌是什麼？",
+    "answer": "死了都要愛",
+    "tags": []
+  },
+  {
+    "id": 43,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第一季完整旅途順序正確的是？",
+    "answer": "北京一義大利一西班牙一西安",
+    "tags": []
+  },
+  {
+    "id": 44,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "地球四美分別是？",
+    "answer": "帥雷雷 帥寧寧 帥俊俊 小星星",
+    "tags": []
+  },
+  {
+    "id": 45,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "李乃文地球輩分是",
+    "answer": "乃乃",
+    "tags": []
+  },
+  {
+    "id": 46,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "陳星旭見李乃文叫的",
+    "answer": "叔叔",
+    "tags": []
+  },
+  {
+    "id": 47,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "叢林無影手遊戲第二輪，被郭京飛冤出去多少人？",
+    "answer": "3個",
+    "tags": []
+  },
+  {
+    "id": 48,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "看穿了就是你遊戲中，李乃文讓孫紅雷拿什麼當麥克風？",
+    "answer": "鞋子",
+    "tags": []
+  },
+  {
+    "id": 49,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第二季第二期節目中，地球團團員是在什麼時間看到的彩虹？",
+    "answer": "晚餐前",
+    "tags": []
+  },
+  {
+    "id": 50,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第二季第一期的請出門遊戲中，陳星旭被誰淘汰？",
+    "answer": "陳星旭",
+    "tags": []
+  },
+  {
+    "id": 51,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第一季劉宇寧在民宿為大家做了什麼美食？",
+    "answer": "羊湯",
+    "tags": []
+  },
+  {
+    "id": 52,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "傳歌遊戲中，劉宇寧說誰是「歌壇小王菲」？",
+    "answer": "周也",
+    "tags": []
+  },
+  {
+    "id": 53,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "唱「初雪我們圍一條圍巾」的轉音時，最重要的秘訣是什麼？",
+    "answer": "想像自己屁股被電了一下",
+    "tags": []
+  },
+  {
+    "id": 54,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "李乃文的旅行必備好物除了防曬口罩和轉換插頭還有什麼？",
+    "answer": "增高鞋墊",
+    "tags": []
+  },
+  {
+    "id": 55,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "林一在冷泉自然保護區撿到了什麼？",
+    "answer": "樹枝",
+    "tags": []
+  },
+  {
+    "id": 56,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第一季在西班牙馬德里地球團全員拍攝了什麼",
+    "answer": "主題曲MV",
+    "tags": []
+  },
+  {
+    "id": 57,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "在毛利文化村中玩抓棍子遊戲，誰最終獲勝了",
+    "answer": "王玉雯",
+    "tags": []
+  },
+  {
+    "id": 58,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第二季第二期隨機舞蹈2.0挑戰，是誰提議向導演組潑水",
+    "answer": "劉宇寧",
+    "tags": []
+  },
+  {
+    "id": 59,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "以下哪個是林一在第二季節目中說過的諧音梗",
+    "answer": "腋下如何",
+    "tags": []
+  },
+  {
+    "id": 60,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第一季節目中，劉宇寧用義大利語點餐點了什麼",
+    "answer": "鋼琴曲",
+    "tags": []
+  },
+  {
+    "id": 61,
+    "season": null,
+    "episode": null,
+    "category": "地球超新鮮",
+    "question": "第二季第二期節目中，陳星旭在叢林無影手遊戲中連續投錯了幾次？",
+    "answer": "6次",
+    "tags": []
+  }
+]

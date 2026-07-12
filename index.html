@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>題庫查詢</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1 id="title"></h1>
+    <div class="tabs">
+      <a href="?type=star" class="tab" id="starTab">
+        灿如繁星
+      </a>
+      <a href="?type=entertainment" class="tab" id="entertainmentTab">
+        🎭 內娛
+      </a>
+      <a href="?type=earth" class="tab" id="earthTab">
+        🌍 地球超新鮮
+      </a>
+    </div>
+    <input type="text" id="search" placeholder="搜尋題目、答案...">
+    <p id="count"></p>
+    <table>
+      <thead>
+        <tr>
+          <th>序號</th>
+          <th>題目</th>
+          <th>答案</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
