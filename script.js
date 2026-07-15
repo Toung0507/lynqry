@@ -1,5 +1,5 @@
 const params = new URLSearchParams(location.search);
-const type = params.get("type") || "star";
+const type = params.get("type") || "hun";
 const tableBody = document.getElementById("tableBody");
 const search = document.getElementById("search");
 const count = document.getElementById("count");
@@ -15,6 +15,11 @@ else if (type === "star") {
   jsonFile = "json/star.json";
   title.textContent = "灿如繁星 題庫";
   document.getElementById("starTab").classList.add("active");
+}
+else if (type === "hun") {
+  jsonFile = "json/hun.json";
+  title.textContent = "百花殺 題庫";
+  document.getElementById("hunTab").classList.add("active");
 }
 else {
   jsonFile = "json/entertainment.json";
@@ -42,10 +47,10 @@ function render(data) {
     return;
   }
 
-  data.forEach(item => {
+  data.forEach((item, index) => {
     tableBody.innerHTML += `
         <tr>
-            <td>${item.id}</td>
+            <td>${index + 1}</td>
             <td>${item.question}</td>
             <td>${item.answer}</td>
         </tr>
