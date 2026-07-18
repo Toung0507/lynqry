@@ -380,6 +380,12 @@
   {
     "category": "內娛",
     "start": "C",
+    "question": "《陳情令》設計魏無羨還魂的幕後boss是？",
+    "answer": "聶懷桑"
+  },
+  {
+    "category": "內娛",
+    "start": "C",
     "question": "《成何體統》王翠花穿越後成為書中誰？",
     "answer": "禍國妖后"
   },
@@ -718,6 +724,12 @@
     "start": "D",
     "question": "《冬去春來》徐勝利和莊莊建立的服飾品牌叫什麼？",
     "answer": "毛絨熊"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《冬去春來》莊莊舞台四重唱唱的是什麼歌曲？",
+    "answer": "雁南飛"
   },
   {
     "category": "內娛",
@@ -1328,6 +1340,12 @@
   {
     "category": "內娛",
     "start": "H",
+    "question": "《花千骨》台詞：你若敢為天下人損她一毫，我便___？",
+    "answer": "殺盡天下人"
+  },
+  {
+    "category": "內娛",
+    "start": "H",
     "question": "《歡樂頌》邱瑩瑩創業的項目是什麼？",
     "answer": "賣咖啡開網店"
   },
@@ -1645,6 +1663,12 @@
   },
   {
     "category": "內娛",
+    "start": "J",
+    "question": "劇集《來戰》改編自九鷺非香的哪部小說？",
+    "answer": "《師傅來戰》"
+  },
+  {
+    "category": "內娛",
     "start": "J-38",
     "question": "劇集《難哄》中桑延開的酒吧的名字是？",
     "answer": "加班"
@@ -1837,6 +1861,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《瑯琊榜》飛流曾經擊敗過的高手是？",
+    "answer": "卓鼎風"
+  },
+  {
+    "category": "內娛",
     "start": "L",
     "question": "《蓮花樓》方多病的江湖綽號是什麼？",
     "answer": "多愁公子"
@@ -1918,6 +1948,12 @@
     "start": "my",
     "question": "《龍族》書中路明非在卡賽爾學院的學號是？",
     "answer": "S-001"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《龍族》書中夏彌的真實身份是什麼？",
+    "answer": "大地與山之王芬里厄的妹妹"
   },
   {
     "category": "內娛",
@@ -2180,6 +2216,12 @@
   {
     "category": "內娛",
     "start": "my",
+    "question": "《明日之子》第一季中主持人是誰？",
+    "answer": "張大大"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
     "question": "《明日之子》第一季冠軍是誰？",
     "answer": "毛不易"
   },
@@ -2251,6 +2293,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《魔道祖師》書中鬼將軍溫寧是被誰的笛聲操控的？",
+    "answer": "魏無羨"
+  },
+  {
+    "category": "內娛",
     "start": "M",
     "question": "《莫離》中，墨修堯為何要給葉璃寫和離書？",
     "answer": "得知舊案真相，以為葉璃來王府······"
@@ -2314,6 +2362,12 @@
     "start": "M-40",
     "question": "莫言小說《生死疲勞》的敘事結構有什麼獨特之處？",
     "answer": "以六道輪迴透過六種動物視角講述"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "莫言獲得諾獎，頒獎詞中「用魔幻現實主義將什麼融為一體」？",
+    "answer": "民間故事、歷史與當代"
   },
   {
     "category": "內娛",
@@ -2704,6 +2758,12 @@
     "start": "Q",
     "question": "《親愛的客棧2026》中，王鶴棣從員工到主理人經歷了幾年？",
     "answer": "8年"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《親愛的客棧2026》中，秦嵐的什麼行為成了名場面？",
+    "answer": "二里地榨汁"
   },
   {
     "category": "內娛",
@@ -3194,6 +3254,12 @@
   {
     "category": "內娛",
     "start": "S",
+    "question": "十個勤天在《種地吧》共同創立的農業公司名稱是？",
+    "answer": "十個勤天"
+  },
+  {
+    "category": "內娛",
+    "start": "S",
     "question": "時代少年團第一次上快本是哪一年？",
     "answer": "2021"
   },
@@ -3313,6 +3379,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "桃花塢6中汪蘇瀧在體驗什麼時被李雪琴調侃比上歌手舞台還緊張？",
+    "answer": "三輪出租車"
+  },
+  {
+    "category": "內娛",
     "start": "T",
     "question": "賀峻霖在《桃花塢6》中如何回應王鶴棣要他替自己當「新郎」的想法？",
     "answer": "沒滿22歲不能結婚"
@@ -3334,6 +3406,12 @@
     "start": "T",
     "question": "《天官賜福》書中花城的別名血雨探花中的花指的是什麼花？",
     "answer": "曼珠沙華(彼岸花)"
+  },
+  {
+    "category": "內娛",
+    "start": "T",
+    "question": "《天官賜福》書中花城為謝憐雕刻了多少尊神像？",
+    "answer": "三千尊"
   },
   {
     "category": "內娛",
@@ -3376,6 +3454,12 @@
     "start": "T",
     "question": "《脫口秀大會》中鳥鳥的標誌性風格是什麼？",
     "answer": "社恐自嘲"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《脫口秀和Ta的朋友們》播出時間是什麼？",
+    "answer": "週五週六12:00"
   },
   {
     "category": "內娛",
@@ -3619,6 +3703,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《我們相愛吧》中，崔始源和劉雯組成的CP名稱是？",
+    "answer": "石榴夫婦"
+  },
+  {
+    "category": "內娛",
     "start": "W",
     "question": "《我是歌手》第一季冠軍是誰？",
     "answer": "羽泉"
@@ -3776,6 +3866,12 @@
   {
     "category": "內娛",
     "start": "my",
+    "question": "五哈6的「戶外狼人殺」環節中，鄧超和鹿晗出現了什麼搞笑互動？",
+    "answer": "同陣營臥底互坑"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
     "question": "《問心2》林逸為方筱然策劃求婚選在什麼場景？",
     "answer": "春暖花開的戶外"
   },
@@ -3808,6 +3904,12 @@
     "start": "X",
     "question": "《吸血鬼日記》中誰是吸血鬼兄弟中的哥哥？",
     "answer": "Damon"
+  },
+  {
+    "category": "內娛",
+    "start": "X",
+    "question": "《吸血鬼日記》的故事發生在？",
+    "answer": "神秘瀑布鎮"
   },
   {
     "category": "內娛",
@@ -3963,7 +4065,7 @@
     "category": "內娛",
     "start": "X",
     "question": "《新還珠格格》中誰的角色是老版沒有的？",
-    "answer": "班傑明 (潘JM) "
+    "answer": "班傑明"
   },
   {
     "category": "內娛",
@@ -3982,6 +4084,12 @@
     "start": "X",
     "question": "《新聞女王》中佘詩曼 (佘SM) 飾演的女主角文慧心人稱什麼？",
     "answer": "Man姐"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "新版《三國》「接著奏樂接著舞」這句台詞出自哪位角色之口？",
+    "answer": "劉備"
   },
   {
     "category": "內娛",
@@ -4090,6 +4198,12 @@
     "start": "X",
     "question": "下面哪一句台詞不是出自台版《流星花園》道明寺的？",
     "answer": "「我又沒你電話，怎麼知道你來不來」"
+  },
+  {
+    "category": "內娛",
+    "start": "X",
+    "question": "下面哪個小朋友沒有參加過《爸爸回來了》？",
+    "answer": "天天"
   },
   {
     "category": "內娛",
@@ -4240,6 +4354,12 @@
     "start": "Y",
     "question": "《以法之名》中張譯 (張Y) 飾演的角色是？",
     "answer": "洪亮"
+  },
+  {
+    "category": "內娛",
+    "start": "Y",
+    "question": "《以法之名》中在雞窩藏金條的是誰？",
+    "answer": "謝鴻飛"
   },
   {
     "category": "內娛",
@@ -4666,6 +4786,12 @@
     "start": "my",
     "question": "有些熊貓收貓困難，主要是因為喜歡？",
     "answer": "掛在樹上不肯下來"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《雨霖鈴》中展昭最終面對的大boss是？",
+    "answer": "襄陽王"
   },
   {
     "category": "內娛",
