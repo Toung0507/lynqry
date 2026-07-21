@@ -99,6 +99,7 @@ function render(data) {
 
 }
 
+
 // debounce 搜尋
 search.addEventListener("input", () => {
 
@@ -106,16 +107,40 @@ search.addEventListener("input", () => {
 
   timer = setTimeout(() => {
 
-    const keyword = search.value.trim().toLowerCase();
+    const keywords = search.value
+      .trim()
+      .toLowerCase()
+      .split(/\s+/)
+      .filter(Boolean);
 
-    if (keyword === "") {
+    if (keywords.length === 0) {
+
       render(questions);
+
       return;
+
     }
 
-    const result = questions.filter(item =>
-      item.search.includes(keyword)
-    );
+
+    const result =
+      questions.filter(item => {
+
+        const text = `
+
+        ${item.question}
+
+        ${item.answer}
+
+      `.toLowerCase();
+
+
+        return keywords.every(keyword =>
+
+          text.includes(keyword)
+
+        );
+
+      });
 
     render(result);
 

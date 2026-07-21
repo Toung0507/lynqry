@@ -13,6 +13,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "2005年《超級女聲》三強是誰？",
+    "answer": "李宇春、周筆暢、張靚穎"
+  },
+  {
+    "category": "內娛",
     "start": "#",
     "question": "2007年《快樂男聲》冠軍是誰",
     "answer": "陳楚生"
@@ -97,15 +103,27 @@
   },
   {
     "category": "內娛",
-    "start": "A",
+    "start": "A-9",
     "question": "艾福杰尼上《種地吧4》高強度幹活被網友調侃錄了一期什麼節目？",
     "answer": "減肥營"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "阿黛與蕭逸寒在《來戰》理事什麼類型的師徒組合？",
+    "answer": "對抗路"
   },
   {
     "category": "內娛",
     "start": "B-1",
     "question": "《八千里路雲和月》的故事背景設定在什麼歷史時期？",
     "answer": "抗日戰爭時期"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《八千里路雲和月》的導演是誰？他曾執導過哪部知名作品？",
+    "answer": "張永新，曾執導《覺醒年代》"
   },
   {
     "category": "內娛",
@@ -130,6 +148,12 @@
     "start": "B",
     "question": "《爸爸去哪兒》中Cindy的真實姓名是什麼？",
     "answer": "田雨橙"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《爸爸去哪兒》中「村長」是由誰扮演的？",
+    "answer": "李銳"
   },
   {
     "category": "內娛",
@@ -181,6 +205,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "白居易《長恨歌》中六軍不發無奈和宛轉峨嵋馬前死指什麼事件？",
+    "answer": "安史之亂楊貴妃縊死於馬嵬波"
+  },
+  {
+    "category": "內娛",
     "start": "B",
     "question": "《百變大咖秀》中賈玲經典模仿過哪位女明星？",
     "answer": "瑪麗蓮夢露"
@@ -199,7 +229,7 @@
   },
   {
     "category": "內娛",
-    "start": "B-0",
+    "start": "B",
     "question": "《半熟戀人5》共有多少位嘉賓？",
     "answer": "12"
   },
@@ -226,6 +256,12 @@
     "start": "B",
     "question": "《北上》裡誰是追星十級愛好者？",
     "answer": "夏鳳華"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《北上》裡誰最先選擇了創業？",
+    "answer": "謝望和"
   },
   {
     "category": "內娛",
@@ -265,6 +301,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《奔跑吧14》時代少年團被要求用什麼姿勢走紅毯？",
+    "answer": "動物爬行"
+  },
+  {
+    "category": "內娛",
     "start": "B",
     "question": "《步步驚心》若曦被皇上指婚給了誰？",
     "answer": "十四爺"
@@ -274,6 +316,12 @@
     "start": "my",
     "question": "《步步驚心》若曦穿越前的職業是？",
     "answer": "會計"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《步步驚心》若曦燒製的花卉茶杯中，給十三爺準備的是？",
+    "answer": "梅花"
   },
   {
     "category": "內娛",
@@ -481,9 +529,21 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《熾熱吸引》謝辛序地鐵搏鬥後失控，吳濃雨用什麼方式安撫他？",
+    "answer": "親吻"
+  },
+  {
+    "category": "內娛",
     "start": "C",
     "question": "《除惡》程懇第一次嘗試製作違禁品是以什麼形式呈現？",
     "answer": "奶片"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《除惡》程懇鋌而走險是為了什麼？",
+    "answer": "救患尿毒症的女兒"
   },
   {
     "category": "內娛",
@@ -524,14 +584,38 @@
   {
     "category": "內娛",
     "start": "C",
+    "question": "《楚喬傳》中元淳大婚時的嫁衣是什麼顏色？",
+    "answer": "藏藍色"
+  },
+  {
+    "category": "內娛",
+    "start": "C",
     "question": "《創造101》中楊超越「我是全村的希望」出自哪一期？",
     "answer": "初舞台"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《創造101》中以「錦鯉」身份出圈的選手是誰？",
+    "answer": "楊超越"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《創造營2021》哪位選手一心只想「下班」？",
+    "answer": "利路修"
   },
   {
     "category": "內娛",
     "start": "C",
     "question": "《長歌行》中趙露思、劉宇寧的CP被觀眾暱稱為？",
     "answer": "狼兔CP"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《長安十二時辰》中李必的髮髻是如何插的？",
+    "answer": "從後往前"
   },
   {
     "category": "內娛",
@@ -565,6 +649,18 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《純真年代的愛情》穆靜給瞿樺送飯穿了什麼顏色的裙子？",
+    "answer": "黃色"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《純真年代的愛情》方穆揚失憶後費霓每天給他餵什麼？",
+    "answer": "胡蘿蔔"
+  },
+  {
+    "category": "內娛",
     "start": "D-1",
     "question": "《大奉打更人》監正最終目的？",
     "answer": "將大奉從時間長河中割裂出去"
@@ -574,6 +670,12 @@
     "start": "D",
     "question": "《大奉打更人》書中許七安穿越前是什麼職業？",
     "answer": "警察（刑警）"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《大奉打更人》書中的主角許七安所屬機構是？",
+    "answer": "打更人衙門"
   },
   {
     "category": "內娛",
@@ -622,6 +724,12 @@
     "start": "D",
     "question": "《盜墓筆記》書中青銅門後的終極秘密與哪個族群有關？",
     "answer": "萬奴王"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《盜墓筆記》書中雲頂天宮的入口隱藏在哪裡？",
+    "answer": "長白山"
   },
   {
     "category": "內娛",
@@ -685,6 +793,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "地三鮮小隊沒有哪一位演員？",
+    "answer": "封馨童"
+  },
+  {
+    "category": "內娛",
     "start": "D",
     "question": "《低智商犯罪》的敘事風格最突出的特點是？",
     "answer": "黑色幽默、荒誕諷刺"
@@ -710,6 +824,12 @@
   {
     "category": "內娛",
     "start": "D",
+    "question": "《點燃我，溫暖你》中，李峋與朱韻的CP名叫什麼？",
+    "answer": "命韻峋環"
+  },
+  {
+    "category": "內娛",
+    "start": "D",
     "question": "《東宮》書中小楓和顧小五（李承鄞）初遇時在哪裡？",
     "answer": "西州"
   },
@@ -722,8 +842,20 @@
   {
     "category": "內娛",
     "start": "D",
+    "question": "《東宮》小楓要求顧小五給自己捉多少隻螢火蟲？",
+    "answer": "100"
+  },
+  {
+    "category": "內娛",
+    "start": "D",
     "question": "《冬去春來》徐勝利和莊莊建立的服飾品牌叫什麼？",
     "answer": "毛絨熊"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《冬去春來》徐勝利和老師一起寫的劇本名子是什麼？",
+    "answer": "遲到的愛"
   },
   {
     "category": "內娛",
@@ -763,6 +895,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "杜牧《過華清宮》中一騎紅塵妃子笑荔枝通過哪種方式送達？",
+    "answer": "軍驛急遞"
+  },
+  {
+    "category": "內娛",
     "start": "D",
     "question": "短劇《女相師》下列哪一項不屬於上古相師龍問心散出的神力碎片？",
     "answer": "玄冰之魂"
@@ -788,6 +926,12 @@
   {
     "category": "內娛",
     "start": "my",
+    "question": "短劇《飼妖》中朱小雪的女主設定是什麼妖怪？",
+    "answer": "仙草妖"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
     "question": "《度華年》中李蓉與裴文宣的核心劇情設定是什麼？",
     "answer": "雙雙重生回到過去改寫命運"
   },
@@ -799,8 +943,14 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《惡作劇之吻》相琴在直樹的輔導下最終考到了第幾名？",
+    "answer": "100"
+  },
+  {
+    "category": "內娛",
     "start": "E-",
-    "question": "《二哈和他的白貓師尊》書中楚晚寧的佩，劍叫什麼？",
+    "question": "《二哈和他的白貓師尊》書中楚晚寧的佩劍叫什麼？",
     "answer": "天問"
   },
   {
@@ -844,6 +994,18 @@
     "start": "F",
     "question": "《繁花》爺爺教阿寶第一課是什麼？",
     "answer": "穿什麼衣服見什麼人"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《繁花》寶總在黃河路上的根據地飯店叫什麼？",
+    "answer": "至真園"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《繁花》劇中90年代上海的時代氛圍核心是？",
+    "answer": "改革開放"
   },
   {
     "category": "內娛",
@@ -914,7 +1076,7 @@
   {
     "category": "內娛",
     "start": "G",
-    "question": "《歌手2025》中「如何呢又能怎」是誰唱的歌詞",
+    "question": "《歌手2025》中「如何呢又能怎」是誰演唱的歌詞？",
     "answer": "單依純"
   },
   {
@@ -944,7 +1106,7 @@
   {
     "category": "內娛",
     "start": "G",
-    "question": "《歌手2026》胡彥斌《借過》的舞台幫唱是？",
+    "question": "《歌手2026》胡彥斌《借過一下》的舞台幫唱是？",
     "answer": "Jony J"
   },
   {
@@ -1124,8 +1286,8 @@
   {
     "category": "內娛",
     "start": "my",
-    "question": "《國樂無雙》李宇春用什麼方法'攻克'粵語發音？",
-    "answer": "用注音標注"
+    "question": "《國樂無雙》李宇春用什麼方法「攻克」粵語發音？",
+    "answer": "用拼音標注"
   },
   {
     "category": "內娛",
@@ -1192,6 +1354,18 @@
     "start": "my",
     "question": "革命題材微短劇《馬背搖籃》改編自誰所著的紀實小說？",
     "answer": "姚淑平"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《鬼吹燈》書中胡八一的祖傳絕技是？",
+    "answer": "十六字陰陽風水秘笈"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《高能少年團2》中，哪位嘉賓因「小梳子」梗出圈？",
+    "answer": "楊紫"
   },
   {
     "category": "內娛",
@@ -1280,8 +1454,20 @@
   {
     "category": "內娛",
     "start": "H",
+    "question": "黑暗森林法則出自哪部作品？",
+    "answer": "《三體》"
+  },
+  {
+    "category": "內娛",
+    "start": "H",
     "question": "《黑夜告白》中冉方旭犧牲的時間是？",
     "answer": "除夕夜"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《黑夜告白》中元龍裡電梯失蹤案發生在幾樓？",
+    "answer": "18樓"
   },
   {
     "category": "內娛",
@@ -1306,6 +1492,12 @@
     "start": "H",
     "question": "《紅樓夢》書中金陵十二釵正冊排名第一的是誰？",
     "answer": "林黛玉和薛寶釵並列"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《紅樓夢》中賈母的娘家姓氏是？",
+    "answer": "史"
   },
   {
     "category": "內娛",
@@ -1360,6 +1552,12 @@
     "start": "my",
     "question": "《歡樂頌》中安迪的原名叫什麼？",
     "answer": "何立春"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《歡樂頌》的五美們都住在哪一樓層？",
+    "answer": "22層"
   },
   {
     "category": "內娛",
@@ -1447,6 +1645,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《極限挑戰》中孫紅雷常被觀眾稱為什麼？",
+    "answer": "顏王"
+  },
+  {
+    "category": "內娛",
     "start": "J",
     "question": "《繼承者們》金嘆是哪個集團的繼承人？",
     "answer": "帝國集團"
@@ -1462,6 +1666,12 @@
     "start": "my",
     "question": "《繼承者們》富家子弟們就讀的學校叫什麼名子？",
     "answer": "帝國高中"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《繼承者們》首播於哪一年？",
+    "answer": "2013年"
   },
   {
     "category": "內娛",
@@ -1540,6 +1750,12 @@
     "start": "J",
     "question": "《劍來》書中的主角陳平安的佩劍名是？",
     "answer": "無名之劍（寧姚所贈）"
+  },
+  {
+    "category": "內娛",
+    "start": "J",
+    "question": "《劍來》書中寧姚是哪一個天下的劍修？",
+    "answer": "劍氣長城"
   },
   {
     "category": "內娛",
@@ -1639,6 +1855,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《金瓶梅》書中書名取自哪三個女性的名子？",
+    "answer": "潘金蓮 李瓶兒 龐春梅"
+  },
+  {
+    "category": "內娛",
     "start": "J",
     "question": "劇版《三體》葉文浩收到三體世界的'不要回答'後做了什麼決定？",
     "answer": "再次向太陽發射信號，主動回應"
@@ -1654,6 +1876,12 @@
     "start": "J",
     "question": "劇版《長安十二時辰》上元劫案的終極BOSS是誰？",
     "answer": "徐賓"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "劇版《全職高手》中陳果幫葉修組建的公會叫什麼？",
+    "answer": "無敵最俊朗"
   },
   {
     "category": "內娛",
@@ -1676,6 +1904,12 @@
   {
     "category": "內娛",
     "start": "my",
+    "question": "劇集《難哄》中桑延在哪裡向溫以凡求婚？",
+    "answer": "南菀一中"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
     "question": "劇集《迷牆》的網路播出平台是？",
     "answer": "騰訊視頻"
   },
@@ -1693,15 +1927,33 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《將夜》書中寧缺的武器是什麼？",
+    "answer": "元十三箭"
+  },
+  {
+    "category": "內娛",
     "start": "K-1",
     "question": "《開端》李詩晴是大幾的學生？",
     "answer": "大三"
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《開端》發生爆炸的公交車車牌號是？",
+    "answer": "嘉A77651"
+  },
+  {
+    "category": "內娛",
     "start": "K",
     "question": "《開始推理吧4》金靖看到陳皮糖cue張凌赫哪部劇名場面？",
     "answer": "《逐玉》"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《開始推理吧4》金靖的vlog裡周柯宇私下喊張凌赫什麼？",
+    "answer": "家瑋"
   },
   {
     "category": "內娛",
@@ -1807,6 +2059,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《康熙來了》的主持人是哪兩位？",
+    "answer": "蔡康永和小S"
+  },
+  {
+    "category": "內娛",
     "start": "L-1",
     "question": "《來戰》中阿黛蕭逸寒的相處狀態是？",
     "answer": "相愛相殺"
@@ -1816,6 +2074,12 @@
     "start": "my",
     "question": "《來戰》中阿黛使用的武器是什麼？",
     "answer": "大錘"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《來戰》中阿黛的標誌性髮型是？",
+    "answer": "雙馬尾"
   },
   {
     "category": "內娛",
@@ -1994,6 +2258,12 @@
   {
     "category": "內娛",
     "start": "L",
+    "question": "李昀銳在《超新星運動會》中憑藉什麼項目奪冠？",
+    "answer": "男子跳高"
+  },
+  {
+    "category": "內娛",
+    "start": "L",
     "question": "梁曉聲的小說《人世間》以哪個城市為背景？",
     "answer": "哈爾濱"
   },
@@ -2006,7 +2276,7 @@
   {
     "category": "內娛",
     "start": "L",
-    "question": "魯迅的第一本白話短篇小說是？",
+    "question": "魯迅的第一篇白話短篇小說是？",
     "answer": "《狂人日記》"
   },
   {
@@ -2026,6 +2296,12 @@
     "start": "M-1",
     "question": "《蠻好的人生》中與胡曼黎搭檔的年輕角色薛曉舟由誰飾演？",
     "answer": "董子健"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《蠻好的人生》中孫儷飾演的胡曼黎從事什麼行業？",
+    "answer": "保險從業人員"
   },
   {
     "category": "內娛",
@@ -2119,6 +2395,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《毛雪汪》譚松韻董晴「職場髮小」友誼起源於哪部作品？",
+    "answer": "《最好的我們》"
+  },
+  {
+    "category": "內娛",
     "start": "M",
     "question": "《玫瑰的故事》「北京到底有誰在啊」這句話台詞是誰說的？",
     "answer": "方協文"
@@ -2140,6 +2422,12 @@
     "start": "my",
     "question": "《玫瑰的故事》方協文要求玫瑰做全職太太的動機是？",
     "answer": "用經濟控制玫瑰"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《玫瑰的故事》庄國棟回國後試圖複合，玫瑰拒絕時說了什麼？",
+    "answer": "你來的太晚了"
   },
   {
     "category": "內娛",
@@ -2353,6 +2641,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "莫言《蛙》的書名有什麼象徵含義？",
+    "answer": "蛙與娃同音，象徵生育與生命"
+  },
+  {
+    "category": "內娛",
     "start": "M",
     "question": "莫言的《紅高粱家族》以哪個地方為故事背景？",
     "answer": "山東高密東北鄉"
@@ -2404,6 +2698,12 @@
     "start": "N",
     "question": "《你好，舊時光》中學校校服的配色是？",
     "answer": "藍白"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《你好舊時光》林楊在體檢時發現自己身體有什麼問題？",
+    "answer": "色弱"
   },
   {
     "category": "內娛",
@@ -2463,13 +2763,19 @@
     "category": "內娛",
     "start": "N",
     "question": "哪位演員沒在短劇《十八歲太奶奶駕到》中演過太奶的孫子？",
-    "answer": "蔡欣洋（蔡XY）"
+    "answer": "蔡欣洋"
   },
   {
     "category": "內娛",
     "start": "N",
     "question": "哪位藝人沒有演出06版《神鵰俠侶》？",
     "answer": "陳曉（陳XY）"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "哪位選手在《脫友3》分享了自己追星的經歷？",
+    "answer": "陳咻"
   },
   {
     "category": "內娛",
@@ -2827,6 +3133,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《情深深雨濛濛》劇中依萍是從哪座橋上跳河的？",
+    "answer": "西渡橋"
+  },
+  {
+    "category": "內娛",
     "start": "Q",
     "question": "《請回答1988》五個孩子都出生於哪一年？",
     "answer": "1971"
@@ -2836,6 +3148,12 @@
     "start": "Q",
     "question": "《請回答1988》中五個孩子第一集一起在誰家看電影？",
     "answer": "阿澤家"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《請回答1988》ost《你不要擔心》中文版哪位歌手演唱過？",
+    "answer": "尤長靖"
   },
   {
     "category": "內娛",
@@ -2929,6 +3247,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《全員加速中》加速隊員的核心目標是？",
+    "answer": "躲避獵人完成任務"
+  },
+  {
+    "category": "內娛",
     "start": "Q",
     "question": "《全職高手》黃金一代中誰出道就是戰隊隊長？",
     "answer": "喻文州"
@@ -2990,6 +3314,12 @@
   {
     "category": "內娛",
     "start": "my",
+    "question": "奇三妹收貓時，採用的「收貓秘笈」不包括？",
+    "answer": "安靜等待"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
     "question": "《秋雪漫過的冬天》的開播日是？",
     "answer": "1月10日"
   },
@@ -3028,6 +3358,12 @@
     "start": "R",
     "question": "《人魚陷落》書中白楚年是什麼物種的alpha？",
     "answer": "白獅"
+  },
+  {
+    "category": "內娛",
+    "start": "R",
+    "question": "《人魚陷落》書中蘭波的真實身份是什麼？",
+    "answer": "海族之王/Siren(賽壬)"
   },
   {
     "category": "內娛",
@@ -3212,7 +3548,7 @@
   {
     "category": "內娛",
     "start": "S",
-    "question": "《歲月有情時》故事主要發生地？",
+    "question": "《歲月有情時》的故事主要發生在哪個地區？",
     "answer": "東北鐵嶺西郊"
   },
   {
@@ -3386,7 +3722,7 @@
   {
     "category": "內娛",
     "start": "T",
-    "question": "賀峻霖在《桃花塢6》中如何回應王鶴棣要他替自己當「新郎」的想法？",
+    "question": "《桃花塢6》中賀峻霖如何回應王子奇要他替自己當「新郎」的想法？",
     "answer": "沒滿22歲不能結婚"
   },
   {
@@ -3428,6 +3764,12 @@
   {
     "category": "內娛",
     "start": "T",
+    "question": "《天官賜福》書中謝憐的佩劍名叫什麼？",
+    "answer": "芳心"
+  },
+  {
+    "category": "內娛",
+    "start": "T",
     "question": "《天官賜福》書中永安之亂的幕後真正推手是誰？",
     "answer": "君吾"
   },
@@ -3454,6 +3796,12 @@
     "start": "T",
     "question": "《脫口秀大會》中鳥鳥的標誌性風格是什麼？",
     "answer": "社恐自嘲"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《脫口秀大會》第三季冠軍是誰？",
+    "answer": "王勉"
   },
   {
     "category": "內娛",
@@ -3577,6 +3925,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《王牌對王牌》中「孔雀東南飛」是誰的名場面？",
+    "answer": "宋亞軒"
+  },
+  {
+    "category": "內娛",
     "start": "W",
     "question": "《王子變青蛙》單均昊與葉天瑜跳華爾滋時，葉天瑜禮服顏色是？",
     "answer": "粉色"
@@ -3584,7 +3938,7 @@
   {
     "category": "內娛",
     "start": "W",
-    "question": "《王子變青蛙》中單均昊為葉天瑜佩戴的代表真愛的戒指是什麼造型？",
+    "question": "《王子變青蛙》中均昊為天瑜佩戴的代表真愛的戒指是什麼造型？",
     "answer": "皇冠"
   },
   {
@@ -3722,14 +4076,26 @@
   {
     "category": "內娛",
     "start": "W",
-    "question": "《無盡的盡頭》游湖殺子案的真凶是谁？",
+    "question": "《無盡的盡頭》游湖殺子案的真凶是誰？",
     "answer": "塗懷偉"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《無盡的盡頭》未檢小隊的臨時辦公室是用什麼改的？",
+    "answer": "後勤處"
   },
   {
     "category": "內娛",
     "start": "W",
     "question": "《無限超越班4》劉濤演的什麼角色氣場拉滿，學員直呼太帶感？",
     "answer": "黑幫老大"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《無限超越班4》中復刻《槍火》名場面，直接在泳池坦誠相見？",
+    "answer": "吳鎮宇&曾志偉"
   },
   {
     "category": "內娛",
@@ -3742,6 +4108,12 @@
     "start": "W",
     "question": "《五十公里桃花塢》650組合都有誰？",
     "answer": "汪蘇瀧 (汪SL)、徐志勝 (徐ZC)、李雪琴 (李XQ)、辣目洋子 (辣MYZ)"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《五十公里桃花塢》孟子義帶來的小狗叫什麼名子？",
+    "answer": "巧克力"
   },
   {
     "category": "內娛",
@@ -3823,6 +4195,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《武林外傳》呂秀才「子曾經曰過」的「子」指的是誰？",
+    "answer": "泛指所有古代聖賢"
+  },
+  {
+    "category": "內娛",
     "start": "W",
     "question": "王國維《人間詞話》三種境界中第二境界是？",
     "answer": "衣帶漸寬終不悔，為伊消得人憔悴"
@@ -3853,6 +4231,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "五代十國時期，蘇州長期屬於哪個政權的核心統治區及財賦重地？",
+    "answer": "吳越"
+  },
+  {
+    "category": "內娛",
     "start": "W-46",
     "question": "五哈6'輪滑傳水'環節中誰因控制不住身體貢獻了大量表情包？",
     "answer": "李乃文 (李NW) & 馬頔 (馬D)"
@@ -3878,8 +4262,20 @@
   {
     "category": "內娛",
     "start": "my",
+    "question": "《問心2》周筱風聽方筱然描述婚禮願景時有何反應？",
+    "answer": "不由淚濕"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
     "question": "《微微一笑很傾城》書中男女主角在遊戲中初遇的場景是？",
     "answer": "副本門口"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "微薄視界大會《武林外傳》二十周年重聚了幾位主演？",
+    "answer": "5"
   },
   {
     "category": "內娛",
@@ -3937,9 +4333,27 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《西遊記》原著中豬八戒題過多少次散夥？",
+    "answer": "9次"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《西遊記》三打白骨精篇章中，白骨精變化的正確順序是？",
+    "answer": "村姑-老婦-老翁"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《西遊記》盤絲洞裡有幾個蜘蛛精？",
+    "answer": "7個"
+  },
+  {
+    "category": "內娛",
     "start": "X",
     "question": "《喜人奇妙夜》中作品「一顆螺絲釘」的編劇是？",
-    "answer": "酷酷的滕 (酷KDT)"
+    "answer": "酷酷的滕"
   },
   {
     "category": "內娛",
@@ -3952,6 +4366,12 @@
     "start": "X",
     "question": "《仙劍奇俠傳三》中重樓將魔劍交給景天的地點是哪裡？",
     "answer": "永安當"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《仙劍奇俠傳三》中已經播出多少年了？",
+    "answer": "17年"
   },
   {
     "category": "內娛",
@@ -4111,6 +4531,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《星漢燦爛·月升滄海》宣皇后被廢后，程少商對她的態度是？",
+    "answer": "感念宣后曾經的善待，主動陪伴..."
+  },
+  {
+    "category": "內娛",
     "start": "X",
     "question": "《星漢燦爛》程少商與凌不疑退婚後，曾被哪位才子多次求娶？",
     "answer": "袁慎"
@@ -4179,13 +4605,19 @@
     "category": "內娛",
     "start": "X",
     "question": "下面哪位藝人不屬於《王牌對王牌》的王牌家族成員？",
-    "answer": "李晨 (李C)"
+    "answer": "李晨"
   },
   {
     "category": "內娛",
     "start": "X",
     "question": "下面哪位藝人參加過《朋友請聽好》？",
     "answer": "井柏然 (井BR)"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "下面哪位不是《五十公里桃花塢》第一季的老塢民？",
+    "answer": "賀俊霖"
   },
   {
     "category": "內娛",
@@ -4201,6 +4633,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "下面哪一首不是台版《流星花園》中的經典歌曲？",
+    "answer": "愛的華爾滋"
+  },
+  {
+    "category": "內娛",
     "start": "X",
     "question": "下面哪個小朋友沒有參加過《爸爸回來了》？",
     "answer": "天天"
@@ -4210,6 +4648,12 @@
     "start": "X",
     "question": "夏夢在職場與陸斌的關係轉折點是哪一幕？",
     "answer": "健身房偶遇坦白體重"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "夏之光在《我家那小子2026》挑戰了一人帶了幾個娃？",
+    "answer": "3"
   },
   {
     "category": "內娛",
@@ -4232,8 +4676,8 @@
   {
     "category": "內娛",
     "start": "X",
-    "question": "肖戰 (肖Z) 為《陳情令》魏無羨演唱的角色曲是？",
-    "answer": "《曲盡陳情》"
+    "question": "肖戰為《陳情令》魏無羨演唱的角色曲是？",
+    "answer": "曲盡陳情"
   },
   {
     "category": "內娛",
@@ -4274,8 +4718,8 @@
   {
     "category": "內娛",
     "start": "Y",
-    "question": "《樂隊的夏天》痛仰樂隊王菲 (王F) 哪首歌讓張亞東感動落淚？",
-    "answer": "《我願意》"
+    "question": "《樂隊的夏天》痛仰樂隊王菲哪首歌讓張亞東感動落淚？",
+    "answer": "我願意"
   },
   {
     "category": "內娛",
@@ -4370,14 +4814,14 @@
   {
     "category": "內娛",
     "start": "Y",
-    "question": "《異人之下之決戰碧遊村》中彭昱暢 (彭YC) 飾演的男主角是誰？",
+    "question": "《異人之下之決戰碧遊村》中彭昱暢飾演的男主角是誰？",
     "answer": "張楚嵐"
   },
   {
     "category": "內娛",
     "start": "Y",
-    "question": "《音你而來3》中，小鬼王琳凱 (王LK) 與哪位歌手合唱了《心跳》？",
-    "answer": "劉雨昕 (劉YX)"
+    "question": "《音你而來3》中，小鬼王琳凱與哪位歌手合唱了《心跳》？",
+    "answer": "劉雨昕"
   },
   {
     "category": "內娛",
@@ -4411,9 +4855,21 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《隱身的名字》任美艷放棄高考的真實原因是什麼？",
+    "answer": "意外懷孕"
+  },
+  {
+    "category": "內娛",
     "start": "Y",
     "question": "《永夜星河》出場的第一個妖是？",
     "answer": "鏡妖"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《永夜星河》中小說《捉妖》的作者是？",
+    "answer": "浮舟"
   },
   {
     "category": "內娛",
@@ -4426,6 +4882,12 @@
     "start": "Y",
     "question": "《月鱗綺紀》中露蕪衣和霧妄言關係是？",
     "answer": "姊妹"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《月鱗綺紀》中露蕪衣和霧妄言真身是？",
+    "answer": "九尾妖"
   },
   {
     "category": "內娛",
@@ -4460,7 +4922,7 @@
   {
     "category": "內娛",
     "start": "Y",
-    "question": "楊洋 (楊Y) 在《青春環遊記》貢獻了著名的「社死」瞬間是？",
+    "question": "楊洋在《青春環遊記》貢獻了著名的「社死」瞬間是？",
     "answer": "連續打嗝停不下來"
   },
   {
@@ -4478,14 +4940,20 @@
   {
     "category": "內娛",
     "start": "Y",
-    "question": "以下經典表情包金句出自黃曉明 (黃XM) 的哪檔節目？(我不要你覺得我只要我覺得聽我的)",
-    "answer": "《中餐廳》"
+    "question": "以下表情包出自黃曉明的哪檔節目？(我不要你覺得我只要我覺得聽我的)",
+    "answer": "中餐廳"
   },
   {
     "category": "內娛",
     "start": "Y",
     "question": "以下哪部不是男頻題材短劇？",
     "answer": "《好一個乖乖女》"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "以下哪部不屬於饒雪漫《不一樣的她》系列劇？",
+    "answer": "其實不是初戀"
   },
   {
     "category": "內娛",
@@ -4496,7 +4964,7 @@
   {
     "category": "內娛",
     "start": "Y",
-    "question": "以下哪部綜藝屬於時代少年團官方團綜？",
+    "question": "以下哪部綜藝屬於時代少年團團綜？",
     "answer": "《這是我的西遊》"
   },
   {
@@ -4520,7 +4988,7 @@
   {
     "category": "內娛",
     "start": "Y",
-    "question": "以下哪個不是《山花爛漫時》劇中女學生的名字？",
+    "question": "以下哪個不是《山花爛漫時》劇中學生的名字？",
     "answer": "陳四海"
   },
   {
@@ -4550,7 +5018,7 @@
   {
     "category": "內娛",
     "start": "Y",
-    "question": "以下哪個角色沒有出現在劇版《全職高手》的主角陣容中？",
+    "question": "以下哪個角色沒有出現在劇版《全職高手》的中？",
     "answer": "周澤楷"
   },
   {
@@ -4615,6 +5083,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "以下哪首是《一起來看流星雨》的片尾曲？",
+    "answer": "《我要的飛翔》"
+  },
+  {
+    "category": "內娛",
     "start": "Y",
     "question": "以下哪位不是《狂飆》中的「內鬼」？",
     "answer": "紀澤"
@@ -4676,6 +5150,12 @@
   {
     "category": "內娛",
     "start": "my",
+    "question": "以下哪位不是笑友團常駐成員？",
+    "answer": "黃子泓凡"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
     "question": "以下哪位選手是《脫友3》新人？",
     "answer": "島主"
   },
@@ -4731,7 +5211,7 @@
     "category": "內娛",
     "start": "Y",
     "question": "以下同時出演《離歌1999》和《影后的劇本出了錯》的演員是？",
-    "answer": "周昊杉 (周HS)"
+    "answer": "周昊杉"
   },
   {
     "category": "內娛",
@@ -4792,6 +5272,12 @@
     "start": "my",
     "question": "《雨霖鈴》中展昭最終面對的大boss是？",
     "answer": "襄陽王"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "元雜劇四大愛情劇中不包括以下哪部？",
+    "answer": "《漢宮秋》"
   },
   {
     "category": "內娛",
@@ -4894,6 +5380,12 @@
     "start": "Z",
     "question": "《這是我的西遊2》西遊團的核心常駐嘉賓團體是哪個組合？",
     "answer": "時代少年團"
+  },
+  {
+    "category": "內娛",
+    "start": "Z",
+    "question": "《這是我的西遊2》誰承擔為11名成員製作豪華泡麵晚餐的任務？",
+    "answer": "嚴浩翔"
   },
   {
     "category": "內娛",
@@ -5060,7 +5552,7 @@
   {
     "category": "內娛",
     "start": "Z",
-    "question": "《中餐廳10》王俊凱 (王JK) 切菜受傷後是怎麼處理的？",
+    "question": "《中餐廳10》王俊凱切菜受傷後是怎麼處理的？",
     "answer": "自己默默處理傷口"
   },
   {
@@ -5072,7 +5564,7 @@
   {
     "category": "內娛",
     "start": "Z",
-    "question": "《中餐廳10》王俊凱 (王JK) 最終以什麼身份加盟餐廳？",
+    "question": "《中餐廳10》王俊凱最終以什麼身份加盟餐廳？",
     "answer": "首席運營官"
   },
   {
@@ -5080,6 +5572,12 @@
     "start": "Z",
     "question": "《中餐廳10》在結賬時給供貨商，誰提到利潤要分、不需全額付款？",
     "answer": "王俊凱 (王JK)"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "《中餐廳10》常駐嘉賓不包括誰？",
+    "answer": "楊迪"
   },
   {
     "category": "內娛",
@@ -5120,7 +5618,7 @@
   {
     "category": "內娛",
     "start": "Z",
-    "question": "《種地吧4》陳建斌 (陳JB) 讓十個勤天感到有「壓迫感」的是？",
+    "question": "《種地吧4》陳建斌讓十個勤天感到有「壓迫感」的是？",
     "answer": "皇帝氣場"
   },
   {
@@ -5209,6 +5707,12 @@
   },
   {
     "category": "內娛",
+    "start": "my",
+    "question": "《逐玉》齊旻城樓墜落前做了什麼？",
+    "answer": "掰斷手指鬆開鐵鍊"
+  },
+  {
+    "category": "內娛",
     "start": "Z",
     "question": "《主角》憶秦娥給劉紅兵設置了「幾不准」？",
     "answer": "八不准"
@@ -5270,7 +5774,7 @@
   {
     "category": "內娛",
     "start": "Z",
-    "question": "在《半熟戀人5》中，肖文韜 (肖WT) 的暱稱是？",
+    "question": "在《半熟戀人5》中，肖文韜的暱稱是？",
     "answer": "曉聞"
   },
   {
@@ -5306,8 +5810,14 @@
   {
     "category": "內娛",
     "start": "Z",
-    "question": "周深 (週s) 在《青春環遊記2》中扮演「海帶銷售」用了什麼優勢？",
+    "question": "周深在《青春環遊記2》中扮演「海帶銷售」用了什麼優勢？",
     "answer": "專業的聲樂技巧叫賣"
+  },
+  {
+    "category": "內娛",
+    "start": "my",
+    "question": "周深曾被哪位選手「老哭」？",
+    "answer": "封馨童"
   },
   {
     "category": "內娛",
@@ -5320,5 +5830,11 @@
     "start": "Z-51",
     "question": "粽子段子說「沒人認識的地方」是哪裡？",
     "answer": "南方"
+  },
+  {
+    "category": "內娛",
+    "start": "Z",
+    "question": "《遮天》書中葉天帝的本名是？",
+    "answer": "葉凡"
   }
 ]

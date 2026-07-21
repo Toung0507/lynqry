@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>題庫分析</title>
+
+  <link rel="stylesheet" href="css/analyze.css">
+</head>
+
+<body>
+
+  <main class="container">
+
+    <h1>題庫分析</h1>
+
+    <p class="description">
+      分析 entertainment_new.json 中的高頻作品名稱與關鍵詞
+    </p>
+
+
+    <!-- ==================== -->
+    <!-- 作品名稱 -->
+    <!-- ==================== -->
+
+    <section class="analysis-section">
+
+      <div class="section-header">
+
+        <div>
+          <h2>作品名稱</h2>
+
+          <p>
+            統計題目中《》內的作品名稱
+          </p>
+        </div>
+
+        <select id="workThreshold">
+          <option value="2">出現 2 次以上</option>
+          <option value="10" selected>出現 10 次以上</option>
+          <option value="20">出現 20 次以上</option>
+        </select>
+
+      </div>
+
+
+      <div class="content-layout">
+
+        <div class="keyword-panel">
+
+          <h3 id="workCount">
+            作品名稱
+          </h3>
+
+          <div id="workList" class="keyword-list"></div>
+
+        </div>
+
+
+        <div class="question-panel">
+
+          <h3 id="workQuestionTitle">
+            點擊作品名稱查看相關題目
+          </h3>
+
+          <div id="workQuestionList"></div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- ==================== -->
+    <!-- 關鍵詞 -->
+    <!-- ==================== -->
+
+    <section class="analysis-section">
+
+      <div class="section-header">
+
+        <div>
+          <h2>關鍵詞</h2>
+
+          <p>
+            自動分析題目中的高頻詞
+          </p>
+        </div>
+
+        <select id="keywordThreshold">
+          <option value="2">出現 2 次以上</option>
+          <option value="10" selected>出現 10 次以上</option>
+          <option value="20">出現 20 次以上</option>
+        </select>
+
+      </div>
+
+
+      <div class="content-layout">
+
+        <div class="keyword-panel">
+
+          <h3 id="keywordCount">
+            關鍵詞
+          </h3>
+
+          <div id="keywordList" class="keyword-list"></div>
+
+        </div>
+
+
+        <div class="question-panel">
+
+          <h3 id="keywordQuestionTitle">
+            點擊關鍵詞查看相關題目
+          </h3>
+
+          <div id="keywordQuestionList"></div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <script src="js/analyze.js"></script>
+
+</body>
+
+</html>
