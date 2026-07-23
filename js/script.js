@@ -1,5 +1,5 @@
 const params = new URLSearchParams(location.search);
-const type = params.get("type") || "chicken";
+const type = params.get("type") || "dog";
 
 const tableBody = document.getElementById("tableBody");
 const search = document.getElementById("search");
@@ -12,6 +12,11 @@ let timer = null;
 let jsonFile = "";
 
 switch (type) {
+  case "dog":
+    jsonFile = "json/dog.json";
+    title.textContent = "野狗骨頭 題庫";
+    document.getElementById("dogTab").classList.add("active");
+    break;
   case "chicken":
     jsonFile = "json/chicken.json";
     title.textContent = "肯德基 題庫";
