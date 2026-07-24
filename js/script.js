@@ -12,6 +12,13 @@ let timer = null;
 let jsonFile = "";
 
 switch (type) {
+
+  case "singer2026":
+    jsonFile = "json/singer2026.json";
+    title.textContent = "野狗骨頭 題庫";
+    document.getElementById("singer2026Tab").classList.add("active");
+    break;
+
   case "dog":
     jsonFile = "json/dog.json";
     title.textContent = "野狗骨頭 題庫";
