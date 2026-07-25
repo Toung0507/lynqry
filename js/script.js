@@ -1,5 +1,5 @@
 const params = new URLSearchParams(location.search);
-const type = params.get("type") || "dog";
+const type = params.get("type") || "singer2026";
 
 const tableBody = document.getElementById("tableBody");
 const search = document.getElementById("search");
