@@ -1,6 +1,7 @@
 const params = new URLSearchParams(location.search);
-const type = params.get("type") || "singer2026";
+const type = params.get("type") || "new_star";
 
+const tableHeader = document.getElementById("tableHeader");
 const tableBody = document.getElementById("tableBody");
 const search = document.getElementById("search");
 const count = document.getElementById("count");
@@ -8,14 +9,18 @@ const title = document.getElementById("title");
 
 let questions = [];
 let timer = null;
-
 let jsonFile = "";
 
 switch (type) {
+  case "new_star":
+    jsonFile = "json/new_star.json";
+    title.textContent = "新「星」 題庫";
+    document.getElementById("new_starTab").classList.add("active");
+    break;
 
   case "singer2026":
     jsonFile = "json/singer2026.json";
-    title.textContent = "野狗骨頭 題庫";
+    title.textContent = "歌手2026 題庫";
     document.getElementById("singer2026Tab").classList.add("active");
     break;
 
@@ -24,6 +29,7 @@ switch (type) {
     title.textContent = "野狗骨頭 題庫";
     document.getElementById("dogTab").classList.add("active");
     break;
+
   case "chicken":
     jsonFile = "json/chicken.json";
     title.textContent = "肯德基 題庫";
@@ -60,32 +66,43 @@ switch (type) {
     document.getElementById("entertainmentTab").classList.add("active");
 }
 
+function setupTableHeader() {
+  if (type === "new_star") {
+    tableHeader.innerHTML = `
+      <th>序號</th>
+      <th>出題者</th>
+      <th>題目</th>
+      <th>答案</th>
+    `;
+  }
+}
+
 async function load() {
   const response = await fetch(jsonFile);
-
   const data = await response.json();
 
-  // 建立搜尋索引，只做一次
   questions = data.map(item => ({
     ...item,
-    search: `${item.question} ${item.answer}`.toLowerCase()
+    search: `${item.question} ${item.answer} ${item.creator || ""}`.toLowerCase()
   }));
 
   render(questions);
 }
 
 function render(data) {
-
   count.textContent = `共 ${data.length} 題`;
 
   if (data.length === 0) {
+    const colspan = type === "new_star" ? 4 : 3;
+
     tableBody.innerHTML = `
       <tr>
-        <td colspan="3" class="no-data">
+        <td colspan="${colspan}" class="no-data">
           查無資料
         </td>
       </tr>
     `;
+
     return;
   }
 
@@ -94,31 +111,33 @@ function render(data) {
   const fragment = document.createDocumentFragment();
 
   data.forEach((item, index) => {
-
     const tr = document.createElement("tr");
 
-    tr.innerHTML = `
-      <td>${index + 1}</td>
-      <td>${item.question}</td>
-      <td>${item.answer}</td>
-    `;
+    if (type === "new_star") {
+      tr.innerHTML = `
+        <td>${index + 1}</td>
+        <td>${item.creator || ""}</td>
+        <td>${item.question}</td>
+        <td>${item.answer}</td>
+      `;
+    } else {
+      tr.innerHTML = `
+        <td>${index + 1}</td>
+        <td>${item.question}</td>
+        <td>${item.answer}</td>
+      `;
+    }
 
     fragment.appendChild(tr);
-
   });
 
   tableBody.appendChild(fragment);
-
 }
 
-
-// debounce 搜尋
 search.addEventListener("input", () => {
-
   clearTimeout(timer);
 
   timer = setTimeout(() => {
-
     const keywords = search.value
       .trim()
       .toLowerCase()
@@ -126,47 +145,21 @@ search.addEventListener("input", () => {
       .filter(Boolean);
 
     if (keywords.length === 0) {
-
       render(questions);
-
       return;
-
     }
 
-
-    const result =
-      questions.filter(item => {
-
-        const text = `
-
-        ${item.question}
-
-        ${item.answer}
-
-      `.toLowerCase();
-
-
-        return keywords.every(keyword =>
-
-          text.includes(keyword)
-
-        );
-
-      });
+    const result = questions.filter(item =>
+      keywords.every(keyword => item.search.includes(keyword))
+    );
 
     render(result);
-
   }, 150);
-
 });
 
-load();
-
-document.addEventListener("keydown", (e) => {
-
+document.addEventListener("keydown", e => {
   // Ctrl+F / Cmd+F
   if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "f") {
-
     e.preventDefault();
     search.focus();
     search.select();
@@ -182,5 +175,7 @@ document.addEventListener("keydown", (e) => {
     e.preventDefault();
     search.focus();
   }
-
 });
+
+setupTableHeader();
+load();
