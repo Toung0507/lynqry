@@ -5,71 +5,90 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>題庫查詢</title>
+  <script>
+    (function () {
+      const theme = localStorage.getItem("theme");
+      if (theme === "dark") {
+        document.documentElement.classList.add("dark");
+      }
+    })();
+  </script>
   <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
+
   <div class="container">
-    <h1 id="title"></h1>
+
+    <div class="top-bar">
+      <h1 id="title"></h1>
+
+      <button id="themeToggle" title="切換日夜模式">
+        🌙
+      </button>
+    </div>
 
     <div class="tabs">
-      <a href="?type=new_star" class="tab" id="new_starTab">
+      <a href="#" class="tab" data-type="zhejiang_TV">
+        浙江衛視音綜
+      </a>
+
+      <a href="#" class="tab" data-type="new_star">
         新「星」
       </a>
 
-      <a href="?type=hun" class="tab" id="hunTab">
+      <a href="#" class="tab" data-type="hun">
         百花殺
       </a>
 
-      <a href="?type=singer2026" class="tab" id="singer2026Tab">
+      <a href="#" class="tab" data-type="singer2026">
         歌手2026
       </a>
 
-      <a href="?type=entertainment" class="tab" id="entertainmentTab">
+      <a href="#" class="tab" data-type="entertainment">
         🎭 內娛
       </a>
 
-      <!-- <a href="?type=dog" class="tab" id="dogTab">
+      <!-- <a href="#" class="tab" data-type="dog">
         野狗骨頭
       </a> -->
 
-      <!-- <a href="?type=chicken" class="tab" id="chickenTab">
+      <!-- <a href="#" class="tab" data-type="chicken">
         肯德基
       </a> -->
 
-
-
-      <!-- <a href="?type=reasoning" class="tab" id="reasoningTab">
+      <!-- <a href="#" class="tab" data-type="reasoning">
         開始推理吧
       </a> -->
 
-      <!-- <a href="?type=star" class="tab" id="starTab">
+      <!-- <a href="#" class="tab" data-type="star">
         灿如繁星
       </a> -->
 
-      <!-- <a href="?type=earth" class="tab" id="earthTab">
+      <!-- <a href="#" class="tab" data-type="earth">
         🌍 地球超新鮮
       </a> -->
+
     </div>
 
-    <input type="text" id="search" placeholder="搜尋題目、答案...">
+    <input type="text" id="search" placeholder="搜尋題目、答案（空格可多關鍵字，例如：冠軍 顏色 慶餘年）">
 
     <p id="count"></p>
 
     <table>
+
       <thead>
-        <tr id="tableHeader">
-          <th>序號</th>
-          <th>題目</th>
-          <th>答案</th>
-        </tr>
+        <tr id="tableHeader"></tr>
       </thead>
 
       <tbody id="tableBody"></tbody>
+
     </table>
+
   </div>
 
   <script src="js/script.js"></script>
+
 </body>
 
 </html>
