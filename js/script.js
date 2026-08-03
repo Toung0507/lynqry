@@ -35,6 +35,11 @@ let currentTable;
 
 const pages = {
 
+  lyn: {
+    file: "json/lyn.json",
+    title: "劉宇寧專項小考"
+  },
+
   zhejiang_TV: {
     file: "json/zhejiang_TV.json",
     title: "浙江衛視音綜"
