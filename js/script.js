@@ -35,6 +35,12 @@ let currentTable;
 
 const pages = {
 
+  Pinyin: {
+    file: "json/pinyin.json",
+    title: "鞠婧禕專項小考"
+  },
+
+
   lyn: {
     file: "json/lyn.json",
     title: "劉宇寧專項小考"
